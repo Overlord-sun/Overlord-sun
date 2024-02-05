@@ -1,6 +1,6 @@
 ### Привет-привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.behance.net/ErsultanS">
-  <img align="left" alt="Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />
+  <img align="left" alt="Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" style="filter: invert(42%) sepia(87%) saturate(2306%) hue-rotate(89deg) brightness(92%) contrast(91%);" />
 </a>
 
 <a href="https://www.linkedin.com/in/ersultan-s/">
