@@ -17,7 +17,7 @@
 
 <br />
 
-  <img align="right" alt="GIF" src="https://unsplash.com/photos/code-on-a-computer-AaEQmoufHLk" width="400" height="280" />
+  <img align="right" alt="GIF" src="https://www.yandex.ru/images/search?img_url=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F21%2F2d%2F11%2F212d11fb4fbebc32067a7b255252ef45.jpg&lr=10309&p=15&pos=37&rpt=simage&text=%D0%BA%D0%BE%D0%B4%D0%B8%D0%BD%D0%B3%20%D0%BE%D0%B1%D0%BE%D0%B8" width="400" height="280" />
   
 **Languages and Tools:**  
 
