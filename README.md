@@ -16,6 +16,8 @@
 Я изучаю Git и ещё несколько интересных технологий...
 
 <br />
+
+  <img align="right" alt="GIF" src="https://www.freepik.com/free-vector/abstract-vector-green-cyberpunk-halftone-sound-wave-scrathed-dotted-texture-element_26502658.htm?query=coder#from_view=detail_alsolike" width="400" height="280" />
   
 **Languages and Tools:**  
 
