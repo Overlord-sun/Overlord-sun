@@ -17,7 +17,7 @@
 
 <br />
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e3/da/1d/e3da1dd469652fc34cd6ae9759ba81d4.jpg" width="400" height="280" />
+ 
   
 **Languages and Tools:**  
 
